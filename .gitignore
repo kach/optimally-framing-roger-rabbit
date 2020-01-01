@@ -1,0 +1,7 @@
+bunny/
+bunny.tar.gz
+out/
+venv/
+.DS_Store
+*.sw[p]
+hack.pbrt
